@@ -9,10 +9,12 @@ De esta manera, el objetivo es predecir diagnósticamente si un paciente tiene d
 ## 2. Alcance del Proyecto
 
 ### 2.1. Conjunto de datos:
-- El conjunto de datos se encuentra disponible en (Diabetes Dataset)[https://data.mendeley.com/datasets/wj9rwkp9c2/1]
-- [Descripción de los datos disponibles]
-- [Descripción de los resultados esperados]
-- [Criterios de éxito del proyecto]
+El conjunto de datos se encuentra disponible en [Diabetes Dataset](https://data.mendeley.com/datasets/wj9rwkp9c2/1) y corresponde a Los datos de la sociedad iraquí, obtenidos del laboratorio del Hospital de la Ciudad Médica y del Centro Especializado en Endocrinología y Diabetes del Hospital Docente Al-Kindy (Rashid, Ahlam (2020), “Diabetes Dataset”, Mendeley Data, V1, doi: 10.17632/wj9rwkp9c2.1). El conjunto de datos consiste en un archivo plano (.csv) con los siguientes atributos: Número de pacientes, nivel de azúcar en sangre, edad, sexo, índice de creatinina (Cr), índice de masa corporal (IMC), urea, colesterol (Chol), perfil lipídico en ayunas, incluidos colesterol total, LDL, VLDL, triglicéridos (TG) y HDL, HBA1C, clase (la clase de enfermedad diabética del paciente puede ser diabético, no diabético o diabético previsto).
+### 2.3. Resultados esperados
+Se espera un servicio que permita
+
+### 2.4. Criterios de éxito del proyecto
+- 
 
 ### 2.2. Excluye:
 
@@ -20,7 +22,13 @@ De esta manera, el objetivo es predecir diagnósticamente si un paciente tiene d
 
 ## 3. Metodología
 
-[Descripción breve de la metodología que se utilizará para llevar a cabo el proyecto]
+Para la ejecución del proyecto se propone la metología CRISP-DM, la cual plantea 6 pasos:
+- **Entendimiento del negocio:** Entendimiento de los requerimientos, las teareas a desarrollar 
+- **Entendimiento de los datos:**
+- **Preparación de los datos:**
+- **Modelado:**
+- **Evaluación:**
+- **Despliegue**
 
 ## 4. Cronograma
 
