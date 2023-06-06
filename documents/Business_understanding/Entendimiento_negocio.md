@@ -51,6 +51,7 @@ Para la ejecución del proyecto se propone la metología CRISP-DM, la cual plant
 - Pedro Alejandro Astaiza Perafán
 
 ## 6. Entregas y entregables
-- Fase 1: Documento de entendimiento de negocio, diccionario de datos y archivo de cargue de datos.
+- **Fase 1:** Documento de entendimiento de negocio, diccionario de datos y código de cargue de datos.
+- **Fase 2:** Código de preprocesamiento de datos, código y reporte de EDA, documento de definición de datos y reporte de resumen de datos.
 
 ## 7. Aprobaciones
