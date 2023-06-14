@@ -6,6 +6,8 @@
 | Nombre de documento | Versión | Fecha de entrega | Entregado por | Descripción |
 |------|---------|-------|-------|-------|
 | Entendimiento de negocio | 1.0 | 6 de junio de 2023 | Pedro Astaiza | Primera versión del documento de entendimiento del negocio |
+| Análisis Exploratorio de datos | 2.0 | 14 de junio de 2023 | Pedro Astaiza | Análisis Exploratorio de datos, reporte de datos y documento de definición de datos|
+
 
 
 ## 1. Objetivo del Proyecto
@@ -55,3 +57,4 @@ Para la ejecución del proyecto se propone la metología CRISP-DM, la cual plant
 - **Fase 2:** Código de preprocesamiento de datos, código y reporte de EDA, documento de definición de datos y reporte de resumen de datos.
 
 ## 7. Aprobaciones
+- **Fase 1:** Entregado el 6 de junio de 2023
