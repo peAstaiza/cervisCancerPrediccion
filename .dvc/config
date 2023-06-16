@@ -6,4 +6,4 @@
     gdrive_client_id = 108783628846793501836
     gdrive_service_account_user_email = mlds6-592@stone-chariot-388901.iam.gserviceaccount.com
     gdrive_acknowledge_abuse = true
-    gdrive_service_account_json_file_path = C:\Users\peast\Documents\MlOps\diabetesPrediccion\credentials.json
+    gdrive_service_account_json_file_path = C:\Users\peast\Documents\MlOps\diabetesPrediccion\data\credentials.json
