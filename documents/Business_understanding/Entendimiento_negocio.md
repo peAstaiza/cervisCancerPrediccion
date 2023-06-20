@@ -1,4 +1,5 @@
 # Entendimiento del negocio.
+---
 ## Histórico del documento
 - **Nombre del proyecto**: Detección de diabetes a partir de información médica y análisis de laboratorio
 - **Elaborado por:** Pedro Alejandro Astaiza Perafán
@@ -9,14 +10,17 @@
 | Análisis Exploratorio de datos | 2.0 | 14 de junio de 2023 | Pedro Astaiza | Análisis Exploratorio de datos, reporte de datos y documento de definición de datos|
 | Reporte de datos | 3.0 | 15 de junio de 2023 | Pedro Astaiza | Análisis Exploratorio de datos, reporte de datos y documento de definición de datos|
 | Preprocesamiento | 4.0 | 16 de junio de 2023 | Pedro Astaiza | Análisis Exploratorio de datos, reporte de datos y documento de definición de datos|
+| Modelado | 5.0 | 19 de junio de 2023 | Pedro Astaiza | Análisis de Componentes Principales, modelado, selección de modelo y documentos de línea base y reporte de modelo final|
 
 
 
 ## 1. Objetivo del Proyecto
-La diabetes es una enfermedad crónica que afecta a millones de personas en todo el mundo, que se caracteriza por la presencia de altos niveles de glucosa en la sangre. Esta enfermedad puede tener graves consecuencias para la salud si no se detecta a tiempo. Por esta razón, es importante que los pacientes se realicen exámenes médicos periódicos para detectarla en sus primeras etapas.La detección temprana de la diabetes puede ayudar a prevenir complicaciones graves en el futuro, dado que se pueden tomar medidas para controlar los niveles de glucosa en la sangre y prevenir los problemas de salud asociados.<br>
+---
+La diabetes es una enfermedad crónica que afecta a millones de personas en todo el mundo, que se caracteriza por la presencia de altos niveles de glucosa en la sangre. Esta enfermedad puede tener graves consecuencias para la salud si no se detecta a tiempo. Por esta razón, es importante que los pacientes se realicen exámenes médicos periódicos para detectarla en sus primeras etapas. La detección temprana de la diabetes puede ayudar a prevenir complicaciones graves en el futuro, dado que se pueden tomar medidas para controlar los niveles de glucosa en la sangre y prevenir los problemas de salud asociados.<br>
 De esta manera, el objetivo es predecir diagnósticamente si un paciente tiene diabetes, basándose en determinadas mediciones diagnósticas y resultados de laboratorio.
 
 ## 2. Alcance del Proyecto
+---
 ### 2.1. Conjunto de datos:
 El conjunto de datos se encuentra disponible en [Diabetes Dataset](https://data.mendeley.com/datasets/wj9rwkp9c2/1) y corresponde a Los datos de la sociedad iraquí, obtenidos del laboratorio del Hospital de la Ciudad Médica y del Centro Especializado en Endocrinología y Diabetes del Hospital Docente Al-Kindy (Rashid, Ahlam (2020), “Diabetes Dataset”, Mendeley Data, V1, doi: 10.17632/wj9rwkp9c2.1). El conjunto de datos consiste en un archivo plano (.csv) con los siguientes atributos: Número de pacientes, nivel de azúcar en sangre, edad, sexo, índice de creatinina (Cr), índice de masa corporal (IMC), urea, colesterol (Chol), perfil lipídico en ayunas, incluidos colesterol total, LDL, VLDL, triglicéridos (TG) y HDL, HBA1C, clase (la clase de enfermedad diabética del paciente puede ser diabético, no diabético o diabético previsto).
 ### 2.3. Resultados esperados
@@ -31,6 +35,7 @@ Se espera un modelo que permita predecir si un paciente tiene diabetes, dado un 
 - El proyecto no incluye elementos, recursos o servicios, que necesiten pago.
 
 ## 3. Metodología
+---
 
 Para la ejecución del proyecto se propone la metología CRISP-DM, la cual plantea 6 pasos iterativos y cíclicos:
 - **Entendimiento del negocio:** Entendimiento de los requerimientos, objetivos del proyecto, tareas a desarrollar, entre otros.
@@ -41,6 +46,7 @@ Para la ejecución del proyecto se propone la metología CRISP-DM, la cual plant
 - **Despliegue** Puesta en producción del modelo.
 
 ## 4. Cronograma
+---
 
 | Etapa | Duración Estimada | Fechas |
 |------|---------|-------|
@@ -52,12 +58,17 @@ Para la ejecución del proyecto se propone la metología CRISP-DM, la cual plant
 | Evaluación y entrega final | 1 semanas | del 26 de junio al 30 de junio |
 
 ## 5. Equipo del Proyecto
+---
 - Pedro Alejandro Astaiza Perafán
 
 ## 6. Entregas y entregables
+---
 - **Fase 1:** Documento de entendimiento de negocio, diccionario de datos y código de cargue de datos.
 - **Fase 2:** Código de preprocesamiento de datos, código y reporte de EDA, documento de definición de datos y reporte de resumen de datos.
+- **Fase 3:** Código de modelamiento y selección de características (PCA), reporte de modelo final y documento de línea base.
 
 ## 7. Aprobaciones
+---
 - **Fase 1:** Entregado el 6 de junio de 2023
 - **Fase 2:** Entregado el 16 de junio de 2023
+- **Fase 3:** Entregado el 19 de junio de 2023

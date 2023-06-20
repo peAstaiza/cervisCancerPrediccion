@@ -1,0 +1,5 @@
+modelo, accuracy, f1-score
+Modelo base,0.905,0.580604431410883
+regresión logística,0.92,0.7669191919191919
+Árbol de decisión,0.935,0.8372258788871377
+Random Forest,0.93,0.7977591036414564
