@@ -11,7 +11,7 @@
     - python 3.11.4
 - **Diagrama de arquitectura:** 
 <p align="center">
-  <img src="./documents/Deployment/Arquitectura.png" alt="drawing" width="500" height='200px'/>
+  <img src="/documents/Deployment/Arquitectura.png" alt="drawing" width="500" height='200px'/>
 </p>
 
 ## **2.Código de despliegue**
