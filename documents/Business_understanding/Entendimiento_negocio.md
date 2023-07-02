@@ -12,7 +12,7 @@
 | Preprocesamiento | 4.0 | 16 de junio de 2023 | Pedro Astaiza | Análisis Exploratorio de datos, reporte de datos y documento de definición de datos|
 | Modelado | 5.0 | 19 de junio de 2023 | Pedro Astaiza | Análisis de Componentes Principales, modelado, selección de modelo y documentos de línea base y reporte de modelo final|
 | Despliegue en uvicorn y fast api | 6.0 | 26 de junio de 2023 | Pedro Astaiza | Despliegue del servicio de preprocesamiento y predicción|
-
+| Entrega del proyecto | 7.0 | 27 de junio de 2023 | Pedro Astaiza | Entrega del proyecto|
 
 
 ## 1. Objetivo del Proyecto
@@ -68,10 +68,11 @@ Para la ejecución del proyecto se propone la metología CRISP-DM, la cual plant
 - **Fase 2:** Código de preprocesamiento de datos, código y reporte de EDA, documento de definición de datos y reporte de resumen de datos.
 - **Fase 3:** Código de modelamiento y selección de características (PCA), reporte de modelo final y documento de línea base.
 - **Fase 4:** Despliegue del servicio de predicción
-
+- **Entrega de proyecto**
 ## 7. Aprobaciones
 ---
 - **Fase 1:** Entregado el 6 de junio de 2023
 - **Fase 2:** Entregado el 16 de junio de 2023
 - **Fase 3:** Entregado el 19 de junio de 2023
 - **Fase 4:** Entregado el 26 de junio de 2023 
+- **Fase 5:** Entregado el 26 de junio de 2023 
